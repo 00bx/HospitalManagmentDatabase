@@ -1,5 +1,5 @@
-create database Tishk_Hospital;
-use Tishk_Hospital;
+ create database Tishk_Hospital;
+ use Tishk_Hospital;
 
 
 -- table creation start 
